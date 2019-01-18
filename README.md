@@ -1,6 +1,7 @@
 ## Подготовка к экзамену по ДМ
 ___
 ### [Билеты\теория](https://docs.google.com/document/d/1EACQI7TS2PBfiRZQu_DXI_lsPKuRzo9wm6kUUR1x-6o/edit#heading=h.iaq0rwmctbe4)
+Теория из лекций Щербаковой с ее сайта
 
 ### [Примеры задачек с экзамена прошлого года](/problems.md)
 ___
