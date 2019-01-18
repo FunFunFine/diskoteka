@@ -1,4 +1,6 @@
 ## Подготовка к экзамену по ДМ
+
+![Sherbakova](http://kadm.imkn.urfu.ru/files/shcherbakovaportret2-urfu.jpg)
 ___
 ### [Билеты\теория](https://docs.google.com/document/d/1EACQI7TS2PBfiRZQu_DXI_lsPKuRzo9wm6kUUR1x-6o/edit#heading=h.iaq0rwmctbe4)
 Теория из лекций Щербаковой с ее сайта
