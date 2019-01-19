@@ -25,6 +25,7 @@ ___
 Нарисовать диаграмму решетки разбиений множества <a href="https://www.codecogs.com/eqnedit.php?latex=$M&space;=&space;\left&space;\{&space;a,&space;b,&space;c&space;\right&space;\}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$M&space;=&space;\left&space;\{&space;a,&space;b,&space;c&space;\right&space;\}$" title="$M = \left \{ a, b, c \right \}$" /></a>
 Будет ли эта решетка модулярной? Дистрибутивной?
 
+![](https://pp.userapi.com/c851424/v851424495/92f84/WDiXprg5S1I.jpg)
 ___
 
 ## 6
